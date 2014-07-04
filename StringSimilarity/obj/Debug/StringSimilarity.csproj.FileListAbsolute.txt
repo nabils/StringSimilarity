@@ -1,0 +1,6 @@
+c:\users\nabil shuhaiber\documents\visual studio 2012\Projects\StringSimilarity\StringSimilarity\bin\Debug\StringSimilarity.exe.config
+c:\users\nabil shuhaiber\documents\visual studio 2012\Projects\StringSimilarity\StringSimilarity\bin\Debug\StringSimilarity.exe
+c:\users\nabil shuhaiber\documents\visual studio 2012\Projects\StringSimilarity\StringSimilarity\bin\Debug\StringSimilarity.pdb
+c:\users\nabil shuhaiber\documents\visual studio 2012\Projects\StringSimilarity\StringSimilarity\obj\Debug\StringSimilarity.csprojResolveAssemblyReference.cache
+c:\users\nabil shuhaiber\documents\visual studio 2012\Projects\StringSimilarity\StringSimilarity\obj\Debug\StringSimilarity.exe
+c:\users\nabil shuhaiber\documents\visual studio 2012\Projects\StringSimilarity\StringSimilarity\obj\Debug\StringSimilarity.pdb
